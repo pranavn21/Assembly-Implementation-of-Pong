@@ -1,6 +1,5 @@
 # Pranav Nair
 # April 25, 2021
-# NET-ID: PXN190027
 # Parts of code are from Professor Mazidi's examples 
 #
 # Instructions on how to run: 
